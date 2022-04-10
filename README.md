@@ -2,7 +2,7 @@
 
 NAMA   : NURJANAH
 
-NIM    : 312010035
+NIM      : 312010035
 
 KELAS  : TI.20.D1
 
