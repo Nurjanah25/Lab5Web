@@ -7,6 +7,7 @@ NIM      : 312010035
 KELAS  : TI.20.D1
 
 
+
 Membuat sebuah html dengan nama file lab5_javascript.html
 ![image](https://user-images.githubusercontent.com/101665497/163383849-5eb7f276-0e52-4404-aa81-d3046c360852.png)
 Setelah itu membuka browser dan melihat hasilnya
